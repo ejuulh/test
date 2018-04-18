@@ -1,0 +1,113 @@
+REGEDIT4
+
+[HKEY_CLASSES_ROOT\WSsms.ProjectInstaller]
+@="WSsms.ProjectInstaller"
+
+[HKEY_CLASSES_ROOT\WSsms.ProjectInstaller\CLSID]
+@="{D7E96DDD-87A3-339A-BDE9-A48D76CC1898}"
+
+[HKEY_CLASSES_ROOT\CLSID\{D7E96DDD-87A3-339A-BDE9-A48D76CC1898}]
+@="WSsms.ProjectInstaller"
+
+[HKEY_CLASSES_ROOT\CLSID\{D7E96DDD-87A3-339A-BDE9-A48D76CC1898}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="WSsms.ProjectInstaller"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{D7E96DDD-87A3-339A-BDE9-A48D76CC1898}\InprocServer32\1.0.6656.25901]
+"Class"="WSsms.ProjectInstaller"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{D7E96DDD-87A3-339A-BDE9-A48D76CC1898}\ProgId]
+@="WSsms.ProjectInstaller"
+
+[HKEY_CLASSES_ROOT\CLSID\{D7E96DDD-87A3-339A-BDE9-A48D76CC1898}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\WSsms.Temperature]
+@="WSsms.Temperature"
+
+[HKEY_CLASSES_ROOT\WSsms.Temperature\CLSID]
+@="{63F7BDD4-6E3D-3899-B4B1-C7F785285B5D}"
+
+[HKEY_CLASSES_ROOT\CLSID\{63F7BDD4-6E3D-3899-B4B1-C7F785285B5D}]
+@="WSsms.Temperature"
+
+[HKEY_CLASSES_ROOT\CLSID\{63F7BDD4-6E3D-3899-B4B1-C7F785285B5D}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="WSsms.Temperature"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{63F7BDD4-6E3D-3899-B4B1-C7F785285B5D}\InprocServer32\1.0.6656.25901]
+"Class"="WSsms.Temperature"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{63F7BDD4-6E3D-3899-B4B1-C7F785285B5D}\ProgId]
+@="WSsms.Temperature"
+
+[HKEY_CLASSES_ROOT\CLSID\{63F7BDD4-6E3D-3899-B4B1-C7F785285B5D}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\WSsms.ShutdownMembers]
+@="WSsms.ShutdownMembers"
+
+[HKEY_CLASSES_ROOT\WSsms.ShutdownMembers\CLSID]
+@="{EC29C97F-A8E3-3137-B1CE-BFA442714DDF}"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC29C97F-A8E3-3137-B1CE-BFA442714DDF}]
+@="WSsms.ShutdownMembers"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC29C97F-A8E3-3137-B1CE-BFA442714DDF}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="WSsms.ShutdownMembers"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC29C97F-A8E3-3137-B1CE-BFA442714DDF}\InprocServer32\1.0.6656.25901]
+"Class"="WSsms.ShutdownMembers"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC29C97F-A8E3-3137-B1CE-BFA442714DDF}\ProgId]
+@="WSsms.ShutdownMembers"
+
+[HKEY_CLASSES_ROOT\CLSID\{EC29C97F-A8E3-3137-B1CE-BFA442714DDF}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
+
+[HKEY_CLASSES_ROOT\WSsms.Member]
+@="WSsms.Member"
+
+[HKEY_CLASSES_ROOT\WSsms.Member\CLSID]
+@="{831A5591-54FF-3D3A-9B1F-8AED4408BD10}"
+
+[HKEY_CLASSES_ROOT\CLSID\{831A5591-54FF-3D3A-9B1F-8AED4408BD10}]
+@="WSsms.Member"
+
+[HKEY_CLASSES_ROOT\CLSID\{831A5591-54FF-3D3A-9B1F-8AED4408BD10}\InprocServer32]
+@="mscoree.dll"
+"ThreadingModel"="Both"
+"Class"="WSsms.Member"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{831A5591-54FF-3D3A-9B1F-8AED4408BD10}\InprocServer32\1.0.6656.25901]
+"Class"="WSsms.Member"
+"Assembly"="WSsms, Version=1.0.6656.25901, Culture=neutral, PublicKeyToken=null"
+"RuntimeVersion"="v4.0.30319"
+"CodeBase"="file:///D:/Temp/WSsms/WSsms/bin/Release/WSsms.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{831A5591-54FF-3D3A-9B1F-8AED4408BD10}\ProgId]
+@="WSsms.Member"
+
+[HKEY_CLASSES_ROOT\CLSID\{831A5591-54FF-3D3A-9B1F-8AED4408BD10}\Implemented Categories\{62C8FE65-4EBB-45E7-B440-6E39B2CDBF29}]
